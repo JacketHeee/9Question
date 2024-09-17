@@ -1,5 +1,6 @@
 /*
-dự đoán kết quả của 1 chương trình đệ quy có nhớ, tìm số Fibbonacci thứ n
+dự đoán kết quả của 1 chương trình đệ quy sử dụng thuật toán quay lui để sinh 
+các chuỗi nhị phân có độ dài n
 */
 //câu hỏi: Kết quả của chương trình sau là gì?
 //kêt quả: các chuỗi nhị phân có độ dài là 3.
